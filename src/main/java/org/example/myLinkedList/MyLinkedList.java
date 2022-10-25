@@ -174,7 +174,6 @@ public class MyLinkedList implements Iterable<Integer> {
         return true;
     }
 
-
     @Override
     public Iterator<Integer> iterator() {
         return new MyIterator(this);
