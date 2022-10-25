@@ -1,6 +1,6 @@
 package org.example.myLinkedList;
 
-import java.util.Arrays;
+
 import java.util.Collection;
 import java.util.Iterator;
 

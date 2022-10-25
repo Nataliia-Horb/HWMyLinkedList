@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c4ac90a-17f0-46e9-9f54-c3e0fb5f663d" name="Changes" comment="firstCommit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/myLinkedList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/myLinkedList/MyIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/myLinkedList/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/myLinkedList/MyNode.java" afterDir="false" />
+    <list default="true" id="5c4ac90a-17f0-46e9-9f54-c3e0fb5f663d" name="Changes" comment="newCommit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,8 +89,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666520742078</updated>
-      <workItem from="1666520743911" duration="38835000" />
+      <workItem from="1666520743911" duration="41283000" />
     </task>
+    <task id="LOCAL-00001" summary="firstCommit">
+      <created>1666712254602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666712254602</updated>
+    </task>
+    <task id="LOCAL-00002" summary="newCommit">
+      <created>1666712360069</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666712360069</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +116,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -121,6 +136,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="firstCommit" />
-    <option name="LAST_COMMIT_MESSAGE" value="firstCommit" />
+    <MESSAGE value="newCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="newCommit" />
   </component>
 </project>

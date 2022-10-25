@@ -2,6 +2,7 @@ package org.example.myLinkedList;
 
 import java.util.Iterator;
 
+
 public class MyIterator implements Iterator<Integer> {
     MyLinkedList list;
     MyNode node;

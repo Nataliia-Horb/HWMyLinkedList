@@ -2,6 +2,7 @@ package org.example.myLinkedList;
 
 import lombok.Data;
 
+
 @Data
 public class MyNode {
     Integer data;
